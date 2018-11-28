@@ -10,8 +10,16 @@ Curso Udemy - Python para Data Science e Machine Learning feito por Rodrigo Soar
 
 ### Dia 26/11/2018
 
-- Importando a biblioteca numpy;
-- Importando a biblioteca pandas;
-- Importando a biblioteca matplotlib;
+- Importando a biblioteca Numpy;
+- Importando a biblioteca Pandas;
+- Importando a biblioteca Matplotlib;
 - Lendo o arquivo do projeto;
 - Verificando as informações dos dados lidos;
+
+
+
+### Dia 27/11/2018
+
+- Verificando as razões das ligações: EMS, Fire, Traffic;
+- Importando a biblioteca Seaborn;
+- Criando um histograma com o Seaborn para a essa razão.
