@@ -18,8 +18,14 @@ Curso Udemy - Python para Data Science e Machine Learning feito por Rodrigo Soar
 
 
 
-### Dia 27/11/2018
+### Dia 28/11/2018
 
 - Verificando as razões das ligações: EMS, Fire, Traffic;
 - Importando a biblioteca Seaborn;
 - Criando um histograma com o Seaborn para a essa razão.
+
+
+### Dia 29/11/2018
+
+- Trabalhando com as informações de tempo (timeStamp)
+Separando em dias da semana e criando histogramas.
